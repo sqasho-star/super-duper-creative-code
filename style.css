@@ -5,6 +5,14 @@ canvas{
     z-index: -1;
 }
 
+p {
+    color: purple;
+    font-size: 30px;
+}
+
+.special {
+    color: red;
+}
 
 h1 {
     font-size:100px;
