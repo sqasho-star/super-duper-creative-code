@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
     background(220)
-    ellipse(mouseX, mouseY, 40, 40)
+    ellipse(mouseX, mouseY, 20, 20)
 }
 
 function windowResized() {

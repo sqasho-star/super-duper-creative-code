@@ -1,5 +1,4 @@
-canvas{
-    position: fixed;
+canvas{position: fixed;
     left: 0;
     top: 0;
     z-index: -1;
@@ -10,17 +9,19 @@ p {
     font-size: 30px;
 }
 
-.special {
+.special { font-size: 150px;
     color: red;
 }
+time {font-size: 70px; color: black;}
 
 h1 {
-    font-size:100px;
+    font-size:150px;
     color: pink
 }
 h2{
-    font-size: 100px;
+    font: size 90px;
     color: aquamarine;
+
 }
 h3{
     color: cornflowerblue;
