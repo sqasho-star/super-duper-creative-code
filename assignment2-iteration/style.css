@@ -1,1 +1,10 @@
-h1{font-family:cursive;}
+canvas{ position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+
+}
+title{
+    font-size: 50px; 
+    color: salmon;
+}
