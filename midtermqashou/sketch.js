@@ -50,7 +50,7 @@ class Person {
 }
 function setup() {
  
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(400, windowHeight);
   people.push(new Person())
   x = random(width);
   y = random(height);
